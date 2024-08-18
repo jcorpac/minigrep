@@ -8,7 +8,7 @@ This application is a sample project provided in [chapter 12](https://doc.rust-l
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/minigrep.git
+    git clone https://github.com/jcorpac/minigrep.git
     cd minigrep
     ```
 
